@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\BMSproject\BMSproject\bin\Debug\BMSproject.exe.config
+C:\Users\Administrator\source\repos\BMSproject\BMSproject\bin\Debug\BMSproject.exe
+C:\Users\Administrator\source\repos\BMSproject\BMSproject\bin\Debug\BMSproject.pdb
+C:\Users\Administrator\source\repos\BMSproject\BMSproject\obj\Debug\BMSproject.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\BMSproject\BMSproject\obj\Debug\BMSproject.Properties.Resources.resources
+C:\Users\Administrator\source\repos\BMSproject\BMSproject\obj\Debug\BMSproject.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\BMSproject\BMSproject\obj\Debug\BMSproject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BMSproject\BMSproject\obj\Debug\BMSproject.exe
+C:\Users\Administrator\source\repos\BMSproject\BMSproject\obj\Debug\BMSproject.pdb
+C:\Users\Administrator\source\repos\BMSproject\BMSproject\obj\Debug\BMSproject.FrmMain.resources
+C:\Users\Administrator\source\repos\BMSproject\BMSproject\obj\Debug\BMSproject.csproj.Up2Date

@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\BMSproject\BMSproject\bin\Release\BMSproject.exe.config
+C:\Users\Administrator\source\repos\BMSproject\BMSproject\bin\Release\BMSproject.exe
+C:\Users\Administrator\source\repos\BMSproject\BMSproject\bin\Release\BMSproject.pdb
+C:\Users\Administrator\source\repos\BMSproject\BMSproject\bin\Release\thinger.ModbusLib.dll
+C:\Users\Administrator\source\repos\BMSproject\BMSproject\bin\Release\thinger.MyControls.dll
+C:\Users\Administrator\source\repos\BMSproject\BMSproject\obj\Release\BMSproject.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\BMSproject\BMSproject\obj\Release\BMSproject.FrmMain.resources
+C:\Users\Administrator\source\repos\BMSproject\BMSproject\obj\Release\BMSproject.Properties.Resources.resources
+C:\Users\Administrator\source\repos\BMSproject\BMSproject\obj\Release\BMSproject.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\BMSproject\BMSproject\obj\Release\BMSproject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BMSproject\BMSproject\obj\Release\BMSproject.csproj.Up2Date
+C:\Users\Administrator\source\repos\BMSproject\BMSproject\obj\Release\BMSproject.exe
+C:\Users\Administrator\source\repos\BMSproject\BMSproject\obj\Release\BMSproject.pdb
